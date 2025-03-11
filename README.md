@@ -135,4 +135,9 @@ bash rerun_server.sh
 ## Bản quyền
 
 Script này được phát triển bởi **OpenFXT** và **NULLCommand1**.  
-- **Website**: [https://openfxt.vercel.app](https://openfxt.vercel.app)  
+- **Website**: [https://openfxt.vercel.app](https://openfxt.vercel.app)
+
+![Logo 1](https://openfxt.vercel.app/images/favicon.png)
+![Logo 2](https://openfxt.vercel.app/images/brand.png)
+
+## Powered by OpenFXT x NULLCommand1
